@@ -15,7 +15,7 @@ export default function Footer() {
             className="mb-6"
           >
             <h2 className="text-2xl font-bold text-white tracking-tighter">
-              Rafif Phafillah .W
+              Rafif Phadillah .W
             </h2>
             <p className="text-blue-500 font-medium text-sm mt-2 uppercase tracking-[0.2em]">
               2D & 3D Artist | S.Tr.Kom
